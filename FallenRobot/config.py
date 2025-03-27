@@ -2,27 +2,27 @@ class Config(object):
     LOGGER = True
 
     # Get this value from my.telegram.org/apps
-    API_ID = "22100695"
-    API_HASH = "0e8f93300ccbbcd56066e6d790b0d3b2"
+    API_ID = "21968859"
+    API_HASH = "21a59d21687f01d448530ee88a26b1eb"
 
-    CASH_API_KEY = ""  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
+    CASH_API_KEY = "0JMSACOEGPHOVRRI"  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
 
     DATABASE_URL = ""  # A sql database url from elephantsql.com
 
-    EVENT_LOGS = (-1002409089356)  # Event logs channel to note down important bot level events
+    EVENT_LOGS = (-1002314716068)  # Event logs channel to note down important bot level events
 
-    MONGO_DB_URI = "mongodb+srv://ankitpatni95:Ankit@98@cluster0.jberr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"  # Get ths value from cloud.mongodb.com
+    MONGO_DB_URI = "mongodb+srv://thebiggestcomebackever:EREN1234@cluster0.7q7ri.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"  # Get ths value from cloud.mongodb.com
 
     # Telegraph link of the image which will be shown at start command.
-    START_IMG = "https://te.legra.ph/file/40eb1ed850cdea274693e.jpg"
+    START_IMG = "https://i.ibb.co/LzW4zt47/photo-2025-03-27-08-23-01-7486401934237106180.jpg"
 
-    SUPPORT_CHAT = "ANKIT_SHAKYA73"  # Your Telegram support group chat username where your users will go and bother you
+    SUPPORT_CHAT = "https://t.me/igrischatsupport"  # Your Telegram support group chat username where your users will go and bother you
 
     TOKEN = "7522608342:AAEwrsx3n2VDNBRku93NPghwUeocACdt5Pw"  # Get bot token from @BotFather on Telegram
 
-    TIME_API_KEY = ""  # Get this value from https://timezonedb.com/api
+    TIME_API_KEY = "VQTNJC63SDEO"  # Get this value from https://timezonedb.com/api
 
-    OWNER_ID =  7341059064 # User id of your telegram account (Must be integer)
+    OWNER_ID =  "7774827065" # User id of your telegram account (Must be integer)
 
     # Optional fields
     BL_CHATS = []  # List of groups that you want blacklisted.
